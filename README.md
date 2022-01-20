@@ -1,2 +1,2 @@
 # node-basics
-node basics course from plates
+node basics course from plates.
